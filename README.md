@@ -1,9 +1,6 @@
 # Assignment 8: Steganography
 
 **Instructor:** Dr. Mukti Padhya  
-**Date Assigned:** 4 Apr  
-**Due Date:** 7 Apr, 23:59  
-**Points:** 100  
 
 ---
 
